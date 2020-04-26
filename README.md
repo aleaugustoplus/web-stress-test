@@ -1,6 +1,7 @@
 # Spark Web Stress Test
 
-This is a stress test that uses a spark cluster to test the performance of webservices ![spark](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png)
+This is a stress test that uses a spark cluster to test the performance of webservices it works by launching several spark executor tasks and allowing it to perform several requests against a specific addresss that should be provided
+![spark](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png)
 
 ## Getting Started
 
